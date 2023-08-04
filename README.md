@@ -21,7 +21,7 @@
 
 ### [Project 2](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/)
 
-- [ ] [Q1 (4 pts): Reflex Agent](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q1-4-pts-reflex-agent)
+- [x] [Q1 (4 pts): Reflex Agent](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q1-4-pts-reflex-agent)
 - [ ] [Q2 (5 pts): Minimax](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q2-5-pts-minimax)
 - [ ] [Q3 (5 pts): Alpha-Beta Pruning](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q3-5-pts-alpha-beta-pruning)
 - [ ] [Q4 (5 pts): Expectimax](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q4-5-pts-expectimax)
