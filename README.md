@@ -22,10 +22,10 @@
 ### [Project 2](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/)
 
 - [x] [Q1 (4 pts): Reflex Agent](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q1-4-pts-reflex-agent)
-- [ ] [Q2 (5 pts): Minimax](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q2-5-pts-minimax)
-- [ ] [Q3 (5 pts): Alpha-Beta Pruning](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q3-5-pts-alpha-beta-pruning)
-- [ ] [Q4 (5 pts): Expectimax](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q4-5-pts-expectimax)
-- [ ] [Q5 (6 pts): Evaluation Function](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q5-6-pts-evaluation-function)
+- [x] [Q2 (5 pts): Minimax](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q2-5-pts-minimax)
+- [x] [Q3 (5 pts): Alpha-Beta Pruning](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q3-5-pts-alpha-beta-pruning)
+- [x] [Q4 (5 pts): Expectimax](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q4-5-pts-expectimax)
+- [x] [Q5 (6 pts): Evaluation Function](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj2/#q5-6-pts-evaluation-function)
 
 ### [Project 3](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/)
 
