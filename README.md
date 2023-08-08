@@ -31,10 +31,10 @@
 
 - [x] [Q1 (6 pts): Value Iteration](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-1-6-points-value-iteration)
 - [x] [Q2 (5 pts): Policies](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-2-5-points-policies)
-- [ ] [Q3 (6 pts): Q-Learning](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-3-6-points-q-learning)
-- [ ] [Q4 (2 pts): Epsilon Greedy](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-4-2-points-epsilon-greedy)
-- [ ] [Q5 (2 pts): Q-Learning and Pacman](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-5-2-point-q-learning-and-pacman)
-- [ ] [Q6 (4 pts): Approximate Q-Learning](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-6-4-points-approximate-q-learning)
+- [x] [Q3 (6 pts): Q-Learning](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-3-6-points-q-learning)
+- [x] [Q4 (2 pts): Epsilon Greedy](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-4-2-points-epsilon-greedy)
+- [x] [Q5 (2 pts): Q-Learning and Pacman](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-5-2-point-q-learning-and-pacman)
+- [x] [Q6 (4 pts): Approximate Q-Learning](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj3/#question-6-4-points-approximate-q-learning)
 
 ### [Project 4](https://inst.eecs.berkeley.edu/~cs188/fa22/projects/proj4/)
 
